@@ -1,7 +1,4 @@
 /*
-Author: Kirsten Hefney
-Comp167.001
-Due: March 24th 2024
 Description: This Java program defines an abstract class named `Mower`, representing a generic lawnmower.
 - It encapsulates basic properties such as manufacturer, manufacturing year, and serial number.
 - The class provides constructors for initializing these properties and accessor/mutator methods for retrieving and modifying them.

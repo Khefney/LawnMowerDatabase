@@ -1,7 +1,5 @@
 /*
-Author: Kirsten Hefney
-Comp167.001
-Due: March 24th 2024
+
 Description: This Java program defines a class called `MowerWareHouse` which serves as a virtual storage space for various types of lawnmowers.
 It allows users to add, remove, and modify mower objects, as well as read mower data from an input file.
 The program also enables the display of mowers based on their types, such as lawn tractors, commercial mowers, gas-powered mowers, and push reel mowers.

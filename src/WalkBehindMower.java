@@ -1,7 +1,4 @@
 /*
-Author: Kirsten Hefney
-Comp167.001
-Due: March 24th 2024
 Description: This code defines an abstract class `WalkBehindMower` which extends another class `Mower`.
 It represents walk-behind mowers and includes attributes such as cutting width and wheel diameter.
 It provides constructors to initialize these properties and overrides the `toString` method to return a string representation of the mower,

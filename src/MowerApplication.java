@@ -1,7 +1,4 @@
 /*
-Author: Kirsten Hefney
-Comp167.001
-Due: March 24th 2024
 Description:This Java program, `MowerApplication`, serves as an interface for managing lawnmower data stored in an input file.
 - It allows users to either specify an input file as a command-line argument or select one using a GUI file chooser.
 - After reading mower data from the input file, it prompts the user to choose a type of lawnmower (commercial, gas-powered, push reel, or lawn tractor)

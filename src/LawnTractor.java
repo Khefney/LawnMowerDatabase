@@ -1,7 +1,4 @@
 /*
-Author: Kirsten Hefney
-Comp167.001
-Due: March 24th 2024
 Description: This Java class `LawnTractor` represents a specific type of lawnmower, extending the `Mower` class.
 - It introduces additional properties such as an `Engine`, model, and deck width to capture specific features of lawn tractors.
 - The class provides constructors to initialize these properties and accessor/mutator methods for retrieving and modifying them,

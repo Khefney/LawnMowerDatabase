@@ -1,7 +1,4 @@
 /*
-Author: Kirsten Hefney
-Comp167.001
-Due: March 24th 2024
 Description: This Java class `CommercialMower` extends the `Mower` class, representing a commercial-grade lawnmower.
 - It introduces additional properties such as operating hours, a boolean indicating zero turn radius capability, model, deck width, and an `Engine` object.
 - The class provides constructors to initialize these properties, accessor/mutator methods for retrieving and modifying them, and an overridden

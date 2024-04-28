@@ -1,7 +1,4 @@
 /*
-Author: Kirsten Hefney
-Comp167.001
-Due: March 24th 2024
 Description: This Java class `GasPoweredMower` extends the `WalkBehindMower` class, representing a gas-powered walk-behind mower.
 - It introduces additional properties such as an `Engine` and a boolean indicating whether it's self-propelled.
 - The class provides constructors to initialize these properties, accessor/mutator methods for retrieving and modifying them, and an overridden

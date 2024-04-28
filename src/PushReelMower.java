@@ -1,7 +1,4 @@
 /*
-Author: Kirsten Hefney
-Comp167.001
-Due: March 24th 2024
 Description: This Java file defines a class named `PushReelMower` that extends the `WalkBehindMower` class, indicating it is a specific type of walk-behind mower.
 It introduces an additional property, `numWheels`, to capture the number of wheels the mower has,
 along with a constructor to initialize the mower's properties and methods to get and set the number of wheels.
